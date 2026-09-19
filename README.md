@@ -59,7 +59,7 @@ Reproducible ML benchmarking framework for single-cell proteomics.
 - LightGBM: 98.3% accuracy with permutation testing
 - pip-installable · pytest · Docker · CI
 
-### 🔬 [RACIPE-EMT-Project](https://github.com/AIResearcher20/RACIPE-EMT-Project)
+### 🔬 [RACIPE-EMT-Project]
 Integrative framework for EMT heterogeneity: ODE modeling, RACIPE ensembles, and transcriptomic validation.
 - 9-state mechanistic ODE model (Tian 2013)
 - 10,000 randomized RACIPE kinetic models
