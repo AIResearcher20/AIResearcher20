@@ -1,6 +1,7 @@
 # SEPIDEH MOAFI 
 
-### Research Software Engineer · Biomedical AI & Computational Biology
+### Computational Researcher · Biomedical AI & Computational Biology
+Research Software · Genomics · Multi-omics · Foundation Models
 
 Building reproducible research software for biomedical data science — foundation models, genomics, transcriptomics, and evidence-grounded RAG systems.
 
