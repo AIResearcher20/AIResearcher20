@@ -69,7 +69,7 @@ Integrative framework for EMT heterogeneity: ODE modeling, RACIPE ensembles, and
 
 [![GitHub](https://img.shields.io/badge/GitHub-AIResearcher20-black?logo=github)](https://github.com/AIResearcher20)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Sepideh2027-yellow)](https://huggingface.co/Sepideh2027)
-])
+
 
 ---
 
